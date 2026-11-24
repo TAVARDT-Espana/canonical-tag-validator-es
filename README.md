@@ -1,14 +1,13 @@
 # Validador de Etiqueta Canonica y Consolidacion de URLs
 
 [![Validador Etiqueta Canonica](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/es/validador-etiqueta-canonica/)
-[![Jurisdiccion](https://img.shields.io/badge/Jurisdiccion-Espana-00C853.svg)](https://ag.tavardt.com/es/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de rutas canonicas, deteccion de etiquetas duplicadas y prevencion de canibalizacion SEO.
 
-Desarrollado y mantenido por la division de arquitectura web e indexacion de **[TAVARDT Espana](https://ag.tavardt.com/es/)**.
+Desarrollado y mantenido por la division de arquitectura web e indexacion de **TAVARDT Espana**.
 
----
+***
 
 ## Capacidades de Auditoria de Etiqueta Canonica
 
@@ -18,7 +17,7 @@ Desarrollado y mantenido por la division de arquitectura web e indexacion de **[
 * **Comprobacion de Estado del Destino**: Valida que la pagina canonica de destino responda con codigo HTTP 200 OK.
 * **Puntuacion de Salud de Indexacion**: Indice cuantitativo de 0 a 100 con pasos de resolucion tecnica.
 
----
+***
 
 ## Instalacion y Ejecucion
 
@@ -33,20 +32,20 @@ python canonical_validator.py https://empresa.es
 Para generar salida estructurada JSON:
 
 ```bash
-python canonical_validator.py https://empresa.es --json
+python canonical_validator.py https://empresa.es -json
 ```
 
----
+***
 
 ## Diagnostico Completo en la Web
 
 Para revision profunda de consolidacion canonica:
 
-* **[Validador de Etiqueta Canonica Oficial](https://tools.tavardt.com/es/validador-etiqueta-canonica/)**
+* **Validador de Etiqueta Canonica Oficial**
 * **[Portal Corporativo TAVARDT Espana](https://ag.tavardt.com/es/)**
 
----
+***
 
 ## Consultoria en Arquitectura Web y SEO
 
-Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Directrices Digitales UE, consulte al equipo de **[TAVARDT Espana](https://ag.tavardt.com/es/contacto/)**.
+Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Directrices Digitales UE, consulte al equipo de **TAVARDT Espana**.
