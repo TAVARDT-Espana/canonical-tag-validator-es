@@ -49,3 +49,7 @@ Para revision profunda de consolidacion canonica:
 ## Consultoria en Arquitectura Web y SEO
 
 Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Directrices Digitales UE, consulte al equipo de **TAVARDT Espana**.
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
