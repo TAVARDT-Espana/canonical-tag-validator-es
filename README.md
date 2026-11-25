@@ -2,6 +2,7 @@
 
 [![Validador Etiqueta Canonica](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/es/validador-etiqueta-canonica/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de rutas canonicas, deteccion de etiquetas duplicadas y prevencion de canibalizacion SEO.
 
@@ -57,6 +58,11 @@ Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandar
 * **Portal Corporativo:** https://ag.tavardt.com/es/
 * **Suite de Diagnósticos:** https://tools.tavardt.com/es/
 * **Contacto Técnico:** https://ag.tavardt.com/es/contacto/
+
+***
+
+### Licencia
+Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
 
 ***
 
