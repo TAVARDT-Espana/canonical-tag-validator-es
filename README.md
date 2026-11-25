@@ -6,8 +6,6 @@
 
 Auditoria de rutas canonicas, deteccion de etiquetas duplicadas y prevencion de canibalizacion SEO.
 
-Desarrollado y mantenido por la division de arquitectura web e indexacion de **TAVARDT**.
-
 ***
 
 ## Capacidades de Auditoria de Etiqueta Canonica
@@ -38,15 +36,6 @@ python canonical_validator.py https://empresa.es -json
 
 ***
 
-## Diagnostico Completo en la Web
-
-Para revision profunda de consolidacion canonica:
-
-* **Validador de Etiqueta Canonica Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/es/)**
-
-***
-
 ## Consultoria en Arquitectura Web y SEO
 
 Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandares W3C y Directrices Digitales UE, consulte al equipo de **TAVARDT**.
@@ -62,7 +51,7 @@ Para proyectos avanzados de consolidacion de catalogo y cumplimiento de Estandar
 ***
 
 ### Licencia
-Distribuido bajo la Licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener todos los detalles.
+Distribuido bajo la Licencia MIT.
 
 ***
 
